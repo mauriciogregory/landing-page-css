@@ -1,0 +1,37 @@
+* {
+
+}
+
+body {
+    background-color: rgb(8, 70, 99);
+    text-align: center;
+}
+
+
+
+.header__title {
+    color: rgb(95, 95, 255);
+}
+
+.header__text {
+    color: aliceblue;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.header__button__inscrever {
+
+    border: solid blue 1px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+hr {
+    margin-top: 40px;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
